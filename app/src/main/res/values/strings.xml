@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodViet</string>
+    <string name="search_hint">Tìm món ăn...</string>
+    <string name="favorites">Yêu thích</string>
+    <string name="no_data">Chưa có dữ liệu</string>
+    <string name="added_to_fav">Đã thêm vào Yêu thích</string>
+    <string name="removed_from_fav">Đã bỏ khỏi Yêu thích</string>
+
+    <string-array name="regions_array">
+        <item>Tất cả</item>
+        <item>Miền Bắc</item>
+        <item>Miền Trung</item>
+        <item>Miền Nam</item>
+    </string-array>
+</resources>
